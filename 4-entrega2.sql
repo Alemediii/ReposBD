@@ -62,34 +62,14 @@ INSERT INTO centro (nombre) VALUES ('Centro de Prueba');
 SELECT * FROM centro; 
 ROLLBACK; -- Borramos la prueba 
 
--- 2. Carga real desde la vista v_estudiantes 
--- Usamos DISTINCT porque un centro aparece en muchos estudiantes 
-INSERT INTO centro (nombre) 
-SELECT DISTINCT centro 
-FROM v_estudiantes 
-WHERE centro IS NOT NULL; 
+-- Los centros y estudiantes ya fueron insertados vía insercionDB.sql.
+-- Se mantienen las consultas de verificación.
 
 -- 3. Verificación y consolidación
 SELECT * FROM centro; 
-COMMIT;
 
-
--- Inserción masiva de estudiantes con cruce de centros
-INSERT INTO estudiante (dni, nombre, apellido, telefono, correo, centro_codigo)
-SELECT 
-    v.dni, 
-    v.nombre, 
-    v.apellidos, -- Proviene de la concatenación en la vista 
-    v.telefono, 
-    v.correo, 
-    c.codigo     -- Obtenemos el ID generado por la secuencia en el Ejercicio 5
-FROM v_estudiantes v
-JOIN centro c ON v.centro = c.nombre; -- Cruzamos por el nombre del centro
-
--- Verificación de la carga
 SELECT COUNT(*) FROM estudiante;
 
--- Consolidamos los cambios
 COMMIT;
 
 /*
