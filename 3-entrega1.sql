@@ -5,7 +5,40 @@
 -- En la nube no creas el directorio, usas el que ya existe
 GRANT READ, WRITE ON DIRECTORY DATA_PUMP_DIR TO PAU;
 
--- drop table ESTUDIANTES_EXT cascade constraints;
+-- Creación de la tabla externa a partir del CSV
+DROP TABLE estudiantes_ext CASCADE CONSTRAINTS;
+
+CREATE TABLE estudiantes_ext (
+    centro           VARCHAR2(100),
+    nombre           VARCHAR2(100),
+    apellido1        VARCHAR2(100),
+    apellido2        VARCHAR2(100),
+    dni              VARCHAR2(50),
+    telefono         VARCHAR2(100),
+    detalle_materias VARCHAR2(2000)
+)
+ORGANIZATION EXTERNAL (
+    TYPE ORACLE_LOADER
+    DEFAULT DIRECTORY DATA_PUMP_DIR
+    ACCESS PARAMETERS (
+        RECORDS DELIMITED BY NEWLINE
+        CHARACTERSET UTF8
+        FIELDS TERMINATED BY ';'
+        MISSING FIELD VALUES ARE NULL
+        SKIP 1
+        (
+            centro           CHAR(100),
+            nombre           CHAR(100),
+            apellido1        CHAR(100),
+            apellido2        CHAR(100),
+            dni              CHAR(50),
+            telefono         CHAR(100),
+            detalle_materias CHAR(2000)
+        )
+    )
+    LOCATION ('datos-estudiantes-pau.csv')
+)
+REJECT LIMIT UNLIMITED;
 
 SELECT * FROM ESTUDIANTES_EXT;
 
@@ -13,7 +46,7 @@ create or replace view v_estudiantes as
 SELECT 
     dni, 
     nombre, 
-    apellido1 || ' ' || apellido2 as apellidos, -- Unión de apellidos [cite: 918]
+    apellido1 || ' ' || apellido2 as apellidos,
     telefono,
     substr(nombre,1,1) || apellido1 || substr(dni,6,3) || '@uncorreo.es' as correo,
     centro, 
