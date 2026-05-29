@@ -2,60 +2,34 @@
 -- EJERCICIO 4. ESTUDIANTES
 ----------------------------------------------------------------------------------------
 
--- En la nube no creas el directorio, usas el que ya existe
-GRANT READ, WRITE ON DIRECTORY DATA_PUMP_DIR TO PAU;
+-- Originalmente los datos se cargaban desde un CSV mediante una tabla externa.
+-- Como ahora los datos ya están insertados vía insercionDB.sql, se comenta ese bloque
+-- y se adapta la vista para consultar las tablas existentes.
 
--- Creación de la tabla externa a partir del CSV
-DROP TABLE estudiantes_ext CASCADE CONSTRAINTS;
-
-CREATE TABLE estudiantes_ext (
-    centro           VARCHAR2(100),
-    nombre           VARCHAR2(100),
-    apellido1        VARCHAR2(100),
-    apellido2        VARCHAR2(100),
-    dni              VARCHAR2(50),
-    telefono         VARCHAR2(100),
-    detalle_materias VARCHAR2(2000)
-)
-ORGANIZATION EXTERNAL (
-    TYPE ORACLE_LOADER
-    DEFAULT DIRECTORY DATA_PUMP_DIR
-    ACCESS PARAMETERS (
-        RECORDS DELIMITED BY NEWLINE
-        CHARACTERSET UTF8
-        FIELDS TERMINATED BY ';'
-        MISSING FIELD VALUES ARE NULL
-        SKIP 1
-        (
-            centro           CHAR(100),
-            nombre           CHAR(100),
-            apellido1        CHAR(100),
-            apellido2        CHAR(100),
-            dni              CHAR(50),
-            telefono         CHAR(100),
-            detalle_materias CHAR(2000)
-        )
-    )
-    LOCATION ('datos-estudiantes-pau.csv')
-)
-REJECT LIMIT UNLIMITED;
-
-SELECT * FROM ESTUDIANTES_EXT;
+--/* BLOQUE ORIGINAL: TABLA EXTERNA DESDE CSV
+-- GRANT READ, WRITE ON DIRECTORY DATA_PUMP_DIR TO PAU;
+-- DROP TABLE estudiantes_ext CASCADE CONSTRAINTS;
+-- CREATE TABLE estudiantes_ext (...) ORGANIZATION EXTERNAL (...)
+--   LOCATION ('datos-estudiantes-pau.csv');
+--*/
 
 create or replace view v_estudiantes as
 SELECT 
-    dni, 
-    nombre, 
-    apellido1 || ' ' || apellido2 as apellidos,
-    telefono,
-    substr(nombre,1,1) || apellido1 || substr(dni,6,3) || '@uncorreo.es' as correo,
-    centro, 
-    detalle_materias
-FROM estudiantes_ext
-WHERE dni IS NOT NULL;
+    e.dni, 
+    e.nombre, 
+    e.apellido as apellidos,
+    e.telefono,
+    e.correo,
+    c.nombre as centro,
+    (SELECT LISTAGG(m.nombre, ', ') WITHIN GROUP (ORDER BY m.nombre)
+     FROM matriculado mt
+     JOIN materia m ON mt.materia_codigo = m.codigo
+     WHERE mt.estudiante_dni = e.dni) as detalle_materias
+FROM estudiante e
+JOIN centro c ON e.centro_codigo = c.codigo
+WHERE e.dni IS NOT NULL;
 
-SELECT DISTINCT CENTRO from V_ESTUDIANTES;
--- OUTPUT: 158
+SELECT DISTINCT CENTRO from V_ESTUDIANTES ORDER BY CENTRO;
 
 ----------------------------------------------------------------------------------------
 -- EJERCICIO 5. MATRÍCULA
