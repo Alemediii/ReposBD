@@ -1,0 +1,1798 @@
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+1 fila insertadas.
+
+
+Error que empieza en la línea: 272 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (1,'C.C. JUAN XXIII')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 273 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (2,'C.D.P. ADENTA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 274 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (3,'C.D.P. ALBORÁN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 275 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (4,'C.D.P. ALUA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 276 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (5,'C.D.P. ATALAYA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 277 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (6,'C.D.P. CARDENAL HERRERA ORIA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 278 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (7,'C.D.P. CENEC-MÁLAGA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 279 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (8,'C.D.P. CENTRO DE BACHILLERATO DE ARTES ESCÉNICAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 280 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (9,'C.D.P. CERRADO DE CALDERÓN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 281 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (10,'C.D.P. CESUR-CTM')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 282 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (11,'C.D.P. CESUR-PTA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 283 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (12,'C.D.P. ECODENT''S')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 284 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (13,'C.D.P. ECOS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 285 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (14,'C.D.P. EDUFY FORMACION')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 286 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (15,'C.D.P. EL DIVINO PASTOR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 287 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (16,'C.D.P. EL LIMONAR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 288 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (17,'C.D.P. EL PINAR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 289 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (18,'C.D.P. EL ROMERAL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 290 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (19,'C.D.P. ESCUELAS DEL AVE MARÍA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 291 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (20,'C.D.P. ESCUELAS PROFESIONALES DE LA SAGRADA FAMILIA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 292 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (21,'C.D.P. EUROPA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 293 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (22,'C.D.P. GAMARRA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 294 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (23,'C.D.P. INTERNACIONAL TORREQUEBRADA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 295 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (24,'C.D.P. JOBESA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 296 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (25,'C.D.P. LA ASUNCIÓN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 297 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (26,'C.D.P. LA PRESENTACIÓN DE NUESTRA SEÑORA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 298 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (27,'C.D.P. LA REINA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 299 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (28,'C.D.P. LAS CHAPAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 300 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (29,'C.D.P. LAUDE SAN PEDRO DE ALCÁNTARA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 301 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (30,'C.D.P. LEÓN XIII')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 302 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (31,'C.D.P. LOS OLIVOS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 303 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (32,'C.D.P. MÁLAGA INSTITUTE OF TECHNOLOGY')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 304 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (33,'C.D.P. MARAVILLAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 305 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (34,'C.D.P. MARÍA INMACULADA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 306 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (35,'C.D.P. MEDAC MALASAÑA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 307 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (36,'C.D.P. MEDAC NOVA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 308 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (37,'C.D.P. MEDAC SAN RAFAEL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 309 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (38,'C.D.P. NOVASCHOOL AÑORETA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 310 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (39,'C.D.P. NUESTRA SEÑORA DE LA VICTORIA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 311 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (40,'C.D.P. NUESTRA SEÑORA DE LOURDES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 312 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (41,'C.D.P. PATROCINIO SAN JOSÉ')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 313 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (42,'C.D.P. PUERTOSOL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 314 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (43,'C.D.P. SAGRADO CORAZÓN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 315 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (44,'C.D.P. SALLIVER')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 316 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (45,'C.D.P. SAN BARTOLOMÉ')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 317 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (46,'C.D.P. SAN ESTANISLAO DE KOSTKA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 318 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (47,'C.D.P. SAN FRANCISCO DE ASÍS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 319 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (48,'C.D.P. SAN FRANCISCO JAVIER - LA SALLE VIRLECHA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 320 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (49,'C.D.P. SAN JOSÉ')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 321 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (50,'C.D.P. SAN JOSÉ (CAMPILLOS)')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 322 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (51,'C.D.P. SANTA MADRE SACRAMENTO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 323 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (52,'C.D.P. SANTA MARÍA DE LOS ÁNGELES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 324 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (53,'C.D.P. SANTA ROSA DE LIMA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 325 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (54,'C.D.P. SANTÍSIMA TRINIDAD')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 326 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (55,'C.D.P. SIERRA BLANCA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 327 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (56,'C.D.P. UNAMUNO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 328 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (57,'C.D.P.CENTRO DE ESTUDIOS OPTIMA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 329 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (58,'C.D.P.CESUR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 330 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (59,'C.E. DR. ARDUÁN FORMACIÓN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 331 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (60,'C.E. THE BRITISH SCHOOL OF MÁLAGA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 332 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (61,'CDP CENTRO DE FORMACIÓN PROFESIONAL LEON XIII')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 333 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (62,'CDP MEDAC VELÁZQUEZ II')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 334 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (63,'COLEGIO BILINGÜE LA LATINA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 335 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (64,'E.A. SAN TELMO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 336 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (65,'I.E.S. AL-BAYTAR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 337 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (66,'I.E.S. ALMENARA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 338 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (67,'I.E.S. ALTA AXARQUÍA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 339 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (68,'I.E.S. ANDRÉS PÉREZ SERRANO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 340 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (69,'I.E.S. ANTONIO GALA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 341 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (70,'I.E.S. ARROYO DE LA MIEL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 342 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (71,'I.E.S. BELÉN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 343 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (72,'I.E.S. BEN AL JATIB')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 344 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (73,'I.E.S. BEN GABIROL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 345 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (74,'I.E.S. BEZMILIANA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 346 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (75,'I.E.S. CAMILO JOSÉ CELA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 347 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (76,'I.E.S. CAMPANILLAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 348 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (77,'I.E.S. CÁNOVAS DEL CASTILLO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 349 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (78,'I.E.S. CAPELLANÍA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 350 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (79,'I.E.S. CERRO DEL VIENTO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 351 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (80,'I.E.S. CIUDAD DE COÍN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 352 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (81,'I.E.S. CIUDAD JARDÍN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 353 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (82,'I.E.S. CONCHA MÉNDEZ CUESTA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 354 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (83,'I.E.S. DR. RODRÍGUEZ DELGADO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 355 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (84,'I.E.S. EL CHAPARIL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 356 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (85,'I.E.S. EL PALO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 357 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (86,'I.E.S. EMILIO PRADOS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 358 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (87,'I.E.S. FERNANDO DE LOS RÍOS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 359 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (88,'I.E.S. FUENGIROLA Nº 1')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 360 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (89,'I.E.S. FUENTE LUCENA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 361 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (90,'I.E.S. FUENTE LUNA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 362 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (91,'I.E.S. GERALD BRENAN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 363 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (92,'I.E.S. GUADAIZA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 364 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (93,'I.E.S. GUADALPÍN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 365 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (94,'I.E.S. HUELIN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 366 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (95,'I.E.S. HUERTA ALTA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 367 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (96,'I.E.S. JACARANDA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 368 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (97,'I.E.S. JARDINES DE PUERTA OSCURA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 369 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (98,'I.E.S. JARIFA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 370 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (99,'I.E.S. JORGE GUILLÉN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 371 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (100,'I.E.S. JOSÉ NAVARRO Y ALBA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 372 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (101,'I.E.S. JUAN DE LA CIERVA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 373 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (102,'I.E.S. LA CALA DE MIJAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 374 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (103,'I.E.S. LA ROSALEDA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 375 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (104,'I.E.S. LAS FLORES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 376 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (105,'I.E.S. LAS LAGUNAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 377 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (106,'I.E.S. LAS SALINAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 378 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (107,'I.E.S. LAS VIÑAS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 379 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (108,'I.E.S. LITORAL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 380 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (109,'I.E.S. LOS BOLICHES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 381 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (110,'I.E.S. LOS COLEGIALES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 382 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (111,'I.E.S. LOS MANANTIALES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 383 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (112,'I.E.S. LOS MONTECILLOS')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 384 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (113,'I.E.S. LUIS BARAHONA DE SOTO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 385 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (114,'I.E.S. MAR DE ALBORÁN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 386 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (115,'I.E.S. MARE NOSTRUM')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 387 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (116,'I.E.S. MARGARITA SALAS.')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 388 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (117,'I.E.S. MARÍA ZAMBRANO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 389 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (118,'I.E.S. MARTÍN ALDEHUELA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 390 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (119,'I.E.S. MARTÍN RIVERO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 391 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (120,'I.E.S. MAYORAZGO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 392 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (121,'I.E.S. MEDITERRÁNEO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 393 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (122,'I.E.S. MIGUEL ROMERO ESTEO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 394 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (123,'I.E.S. MIRAFLORES DE LOS ÁNGELES')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 395 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (124,'I.E.S. MIRAYA DEL MAR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 396 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (125,'I.E.S. MONTERROSO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 397 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (126,'I.E.S. NUESTRA SEÑORA DE LA VICTORIA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 398 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (127,'I.E.S. NÚM. 1. UNIVERSIDAD LABORAL')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 399 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (128,'I.E.S. PABLO PICASSO')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 400 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (129,'I.E.S. PEDRO ESPINOSA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 401 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (130,'I.E.S. PÉREZ DE GUZMÁN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 402 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (131,'I.E.S. PINTOR JOSÉ MARÍA FERNÁNDEZ')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 403 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (132,'I.E.S. PLAYAMAR')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 404 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (133,'I.E.S. POLITÉCNICO JESÚS MARÍN')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 405 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (134,'I.E.S. PORTADA ALTA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
+
+Error que empieza en la línea: 406 del comando :
+    INSERT INTO centro (codigo, nombre) VALUES (135,'I.E.S. PROFESOR GONZALO HUESA')
+Informe de error -
+ORA-01400: no se puede realizar una inserción NULL en ("ADMIN"."CENTRO"."SEDE_CODIGO")
+
+https://docs.oracle.com/error-help/db/ora-01400/
+
+More Details :
+https://docs.oracle.com/error-help/db/ora-01400/
